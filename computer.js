@@ -24,7 +24,7 @@ let macbook = new Computer('Apple', 'OSX', 'laptop');
 // console.log(macbook);
 // console.log(macbook.powerOn());
 
-let dell = new Computer('Dell', 'Windows', 'desktop')
+let dell = new Computer('Dell', 'Windows 11 Pro', 'desktop')
 // console.log(dell);
 // console.log(dell.powerOn());
 
